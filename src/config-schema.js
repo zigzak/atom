@@ -2,6 +2,8 @@
 
 import path from 'path'
 import fs from 'fs-plus'
+var x = 3;
+
 
 // This is loaded by atom-environment.coffee. See
 // https://atom.io/docs/api/latest/Config for more information about config
